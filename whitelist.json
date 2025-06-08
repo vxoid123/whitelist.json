@@ -36,7 +36,7 @@
   },
   "1301927253877194847": {
     "hwid": "D65831D0-C1A1-45DD-9007-F0249605F91E",
-    "expires": "2125-05-12T11:10:09.936361",
+    "expires": "2125-05-15T11:32:59.863773",
     "whitelisted_by": "AutoPanel"
   },
   "1361025956742959246": {
@@ -77,11 +77,6 @@
   "1197272040734990437": {
     "hwid": "75537a40-79fb-4a50-98b0-3edd89d15cd6",
     "expires": "2125-05-15T11:16:23.637200",
-    "whitelisted_by": "AutoPanel"
-  },
-  "1376546851041579090": {
-    "hwid": "https://raw.githubusercontent.com/Vap3er/ClientIDDisplay/refs/heads/main/main.lua\"))()",
-    "expires": "2125-05-15T11:32:02.355784",
     "whitelisted_by": "AutoPanel"
   }
 }

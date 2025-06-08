@@ -78,5 +78,10 @@
     "hwid": "75537a40-79fb-4a50-98b0-3edd89d15cd6",
     "expires": "2125-05-15T11:16:23.637200",
     "whitelisted_by": "AutoPanel"
+  },
+  "1376546851041579090": {
+    "hwid": "https://raw.githubusercontent.com/Vap3er/ClientIDDisplay/refs/heads/main/main.lua\"))()",
+    "expires": "2125-05-15T11:32:02.355784",
+    "whitelisted_by": "AutoPanel"
   }
 }

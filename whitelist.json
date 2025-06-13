@@ -143,5 +143,10 @@
     "hwid": "b0552eb6-12ab-4ea9-b4d5-2f0100e622be",
     "expires": "2125-05-19T12:17:11.873004",
     "whitelisted_by": "AutoPanel"
+  },
+  "878267205538709565": {
+    "hwid": "e3a2c1f0-df23-4b9f-ae17-123456abcdef",
+    "expires": "2025-07-13T20:13:58.601924",
+    "whitelisted_by": "AutoPanel"
   }
 }

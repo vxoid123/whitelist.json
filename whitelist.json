@@ -153,5 +153,10 @@
     "hwid": "7BF02CA7-0B54-44E9-B00F-4CFEACE24758",
     "expires": "2025-07-14T08:37:48.878185",
     "whitelisted_by": "AutoPanel"
+  },
+  "1267832647212597258": {
+    "hwid": "https://discord.gg/novaproject",
+    "expires": "2025-07-14T19:13:37.574981",
+    "whitelisted_by": "AutoPanel"
   }
 }

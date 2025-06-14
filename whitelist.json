@@ -168,5 +168,10 @@
     "hwid": "loadstring(game:HttpGet(\"https://raw.githubusercontent.com/Vap3er/ClientIDDisplay/refs/heads/main/ma",
     "expires": "2025-07-14T20:58:21.615489",
     "whitelisted_by": "AutoPanel"
+  },
+  "1296219296321634307": {
+    "hwid": "59245702-C8E5-4EAA-9CC8-06A8BAAC7BA3",
+    "expires": "2025-07-14T22:54:08.902953",
+    "whitelisted_by": "AutoPanel"
   }
 }
